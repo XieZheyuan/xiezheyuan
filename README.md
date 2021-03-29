@@ -21,3 +21,6 @@ python, C++, HTML+CSS+JavaScript, C#, Java
 
 - 💬 Ask me about ...
 python
+
+
+![](https://github-readme-stats.vercel.app/api?username=xiezheyuan)
